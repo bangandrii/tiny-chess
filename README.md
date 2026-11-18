@@ -1,6 +1,6 @@
-![Competition](https://make.fun/badge/tiny-chess-01.svg)
-![Rank](https://make.fun/badge/tiny-chess-01/bangandrii/tiny-chess/rank.svg)
-![Reward](https://make.fun/badge/tiny-chess-01/bangandrii/tiny-chess/reward.svg)
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/bangandrii/tiny-chess/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/bangandrii/tiny-chess/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
 # Tiny Chess Engine (`make.fun` Tiny Chess-01 Bounty)
 
